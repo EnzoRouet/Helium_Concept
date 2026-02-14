@@ -3,7 +3,7 @@
 **Projet d'étude** axé sur la création d'interfaces dynamiques et l'implémentation d'effets visuels avancés en JavaScript natif.
 Une reproduction de la landing page Helium mettant l'accent sur l'expérience utilisateur et l'interactivité fluide.
 
-![Aperçu du projet](./img/main.png)
+![Aperçu du projet](./img/Previous.png)
 
 ## 🎯 Contexte & Objectifs Pédagogiques
 
