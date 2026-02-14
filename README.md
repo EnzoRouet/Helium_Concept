@@ -63,7 +63,7 @@ Le projet est une application front-end pure, aucun serveur backend n'est requis
 
 1. **Cloner le dépôt :**
 ```bash
-git clone [https://github.com/EnzoRouet/Projet-4](https://github.com/EnzoRouet/Projet-4)
+git clone [https://github.com/EnzoRouet/Helium_Concept]
 ```
 
 2. **Lancer le projet :**
